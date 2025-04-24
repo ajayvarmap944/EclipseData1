@@ -1,7 +1,8 @@
+
 public class gitClass3
   {
-    public static void mai(string[] args)
+    public static void mai(String[] args)
     {
-      System.out.println("Git Class3")
+      System.out.println("Git Class3");
     }
   }
